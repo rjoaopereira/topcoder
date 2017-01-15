@@ -1,0 +1,8 @@
+[package]
+name = "username"
+version = "0.1.0"
+authors = ["Ricardo Pereira <ricardo.pereira@blip.pt>"]
+
+[dependencies]
+enum-set = "0.0.6"
+pcre = "0.2.3"
